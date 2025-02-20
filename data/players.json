@@ -1,0 +1,146 @@
+[
+	{
+		"id": 1,
+		"name": "Jimmy O'Brien",
+		"nicknames": [ "Jomboy" ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "14",
+		"team": "Baggage"
+	},
+	{
+		"id": 2,
+		"name": "Jake Storiale",
+		"nicknames": [ "Rocky" ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "24",
+		"team": "Baggage"
+	},
+	{
+		"id": 3,
+		"name": "Jack Doyle",
+		"nicknames": [ "We Got Ice Jack" ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "00",
+		"team": "We Got Ice"
+	},
+	{
+		"id": 4,
+		"name": "Lorenzo DeMalia",
+		"nicknames": [ "Zo", "We Got Ice Zo" ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "77",
+		"team": "We Got Ice"
+	},
+	{
+		"id": 5,
+		"name": "Trevor Plouffe",
+		"nicknames": [ "Special T", "Coach Trev" ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "24",
+		"team": "Forgotten Rotten"
+	},
+	{
+		"id": 6,
+		"name": "Dan Robinson",
+		"nicknames": [ "Shelfy" ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "11",
+		"team": "Forgotten Rotten"
+	},
+	{
+		"id": 7,
+		"name": "Joseph Solano",
+		"nicknames": [ "Joez McFly" ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "23",
+		"team": "Del Caribe"
+	},
+	{
+		"id": 8,
+		"name": "Lou Dab",
+		"nicknames": [ ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "4",
+		"team": "Del Caribe"
+	},
+	{
+		"id": 9,
+		"name": "Dan Rourke",
+		"nicknames": [ ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "99",
+		"team": "Woogas"
+	},
+	{
+		"id": 10,
+		"name": "Jimmy Knorp",
+		"nicknames": [ ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "7",
+		"team": "Woogas"
+	},
+	{
+		"id": 11,
+		"name": "Nick Cassano",
+		"nicknames": [ "Nicky Cass" ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "2",
+		"team": "Love Yas"
+	},
+	{
+		"id": 12,
+		"name": "Dalton Feely",
+		"nicknames": [ ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "14",
+		"team": "Love Yas"
+	},
+	{
+		"id": 13,
+		"name": "Dan Canobbio",
+		"nicknames": [ "Old Man Dan" ],
+		"bats": "Left",
+		"throws": "Left",
+		"number": "23",
+		"team": "Hookline Sinkers"
+	},
+	{
+		"id": 14,
+		"name": "Drew Davis",
+		"nicknames": [ ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "11",
+		"team": "Hookline Sinkers"
+	},
+	{
+		"id": 15,
+		"name": "Kyle MacDonald",
+		"nicknames": [ "K-Mac" ],
+		"bats": "Left",
+		"throws": "Right",
+		"number": "69",
+		"team": "MacFlurry Power"
+	},
+	{
+		"id": 16,
+		"name": "Kollin Stone",
+		"nicknames": [ "Stoner" ],
+		"bats": "Right",
+		"throws": "Right",
+		"number": "1",
+		"team": "MacFlury Power"
+	}
+]

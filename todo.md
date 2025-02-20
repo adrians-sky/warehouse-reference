@@ -1,5 +1,5 @@
 # Current TODO
-- Add Player Info
+~- Add Player Info~
 - Start adding Statistics
     - Blitzball Battle
     - Blitzball Battle 2
