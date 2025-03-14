@@ -1,2 +1,21 @@
-seasonid,name,warehousecupid,year,startdate,enddate
-BB5,Blitzball Battle 5,WC01,2024,2024-11-04,2024-12-15
+seasonid,name,franchise,year,startdate,enddate
+1INL,1-Inning League,,2022,2022-04-14,2022-04-21
+1INR,1-Inning League Roulette,,2023,2023-02-06,2023-02-23
+BSB5,Baseball 5,,2024,2024-08-25,2024-08-28
+BBBL,Blitzball Blitz,,2023,2023-09-07,2023-10-02
+BB01,Blitzball Battle 1,,2022,2022-02-14,2022-03-31
+BB02,Blitzball Battle 2,,2022,2022-10-31,2022-12-13
+BB03,Blitzball Battle 3,,2023,2023-04-30,2023-06-04
+BB04,Blitzball Battle 4,,2024,2024-02-18,2024-03-21
+BB05,Blitzball Battle 5,WC01,2024,2024-11-04,2024-12-15
+BBCL01,Captain's League: Blitzball,CL01,2024,2024-06-18,2024-07-09
+BIPT,Ball In Play Tester League,,2022,2022-09-26,2022-09-30
+BIP1,Ball In Play 1,,2023,2023-06-25,2023-07-23
+BIP2,Ball In Play 2,,2024,2024-05-05,2024-06-06
+BIPCL01,Captains' League: Ball in Play,CL01,2024,2024-01-22,2024-02-01
+FB01,Floorball 1,,2022,2022-07-25,2022-08-29
+FB02,Floorball 2,,2023,2023-10-12,2023-11-07
+FB03,Floorball 3,,2024,2024-09-08,2024-10-10
+FBCL01,Captains' League: Floorball,CL01,2024,2024-06-16,2024-08-06
+SBCL01,Captains' League: Slapball,CL01,2024,2024-04-04,2024-04-25
+SBCL02,Captains' League 2: Slapball,CL02,2025,2025-03-02,
